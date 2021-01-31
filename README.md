@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![sunfkny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunfkny&show_icons=true&count_private=true)
+[![sunfkny's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunfkny&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sunfkny/sunfkny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
